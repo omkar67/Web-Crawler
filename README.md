@@ -1,2 +1,2 @@
-# Web-Crawler
-An Example of web Crawler 
+# Web-Crawler 
+A simple example of web crawler 
